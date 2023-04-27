@@ -25,6 +25,6 @@ A PNG (DiagramaticSystemSheet.png) and drawio file (DiagramaticSystemSheet.drawi
 
 A PNG (DiagramaticSystemExamples.png) and drawio file (DiagramaticSystemExamples.drawio) of the above image are available for download.
 
-More examples will be added soon and a hand-drawn shorthand jpg example is also included.
+More examples will be added soon and a hand-drawn shorthand jpg example is also included. 
 
 https://github.com/GeorgeBird1/Diagramatic-Neural-Networks
