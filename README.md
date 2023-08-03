@@ -12,6 +12,10 @@ Chris Olah's depiction of an LSTM as a clear representation of its function insp
 
 I am very much open to community suggestions on modifications to this system, and I will keep an open GitHub to centralize the system. No accreditation is required if used in any publication; this is entirely open-source. I've been using and improving this for a few years now and I personally find it an efficient way for precise communication. I hope you find it useful and see its potential too! :)
 
+BibTex Optional Accreditation:
+
+@misc{Bird_2023, title={Bird’s Convention for Diagramatic Neural Networks}, url={https://github.com/GeorgeBird1/Diagramatic-Neural-Networks}, journal={GitHub}, author={Bird, George}, year={2023}, month={Apr}} 
+
 
 ### Standard Key System:
 
