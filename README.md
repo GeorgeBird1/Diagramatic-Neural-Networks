@@ -1,4 +1,4 @@
-# Bird's Convention for Diagramatic Neural Networks
+# Bird's Neural Notation Convention
 <em>A standardised diagram-key system for detailing artificial neural network structures in scientific papers.</em>
 
 
